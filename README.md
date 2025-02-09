@@ -2,4 +2,4 @@
 
 personal diary for employment purposes.
 
-inspired by [quinn](https://quinn-portfolio.vercel.app/)
+inspired by [mihir](https://mihir3.github.io/portfolio/)
